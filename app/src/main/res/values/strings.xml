@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="movie">movie</string>
+    <string name="todo">image</string>
+    <string name="image">image</string>
+    <string name="name">name</string>
+</resources>
